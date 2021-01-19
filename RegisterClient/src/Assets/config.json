@@ -1,0 +1,15 @@
+{
+    "apiUrl": "http://localhost:8080",
+    "locations": {
+        "getUsers": "/users",
+        "addUser": "/users"
+    },
+    "messages": {
+        "usernameHint": "Please enter a username to register to this application.",
+        "usernameNotValid": "Username is not valid, make sure you have at least 1 character and maximum 14.",
+        "emailHint": "Please enter the email you would like to register with to this application.",
+        "emailNotValid": "Email is not valid, make sure you have a '@' and a valid domain.",
+        "ageHint": "Please enter you're age.",
+        "ageNotValid": "Age is not valid, must be between 0 and 120."
+    }
+}
